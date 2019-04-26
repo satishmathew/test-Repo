@@ -1,4 +1,6 @@
 Rainbow
 Rain
 Sunshine
+Thunder
 Sun
+Lightening
